@@ -6,9 +6,9 @@ logo: http://ppoffice.github.io/hexo-theme-hueman/css/images/logo-header.png
 # Header
 menu:
   Home: /
-  Bylaws: /bylaws
+  Bylaws: /about/bylaws.html
 # Categories:
-  About: /about/index.html
+  About: /about
 
 # Article list grouped by year
 groupByYear: true
