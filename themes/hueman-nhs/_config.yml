@@ -6,31 +6,31 @@ logo: http://ppoffice.github.io/hexo-theme-hueman/css/images/logo-header.png
 # Header
 menu:
   Home: /
-  # Delete this row if you don't want categories in your header nav bar
-  Categories:
+  Bylaws: /bylaws
+# Categories:
   About: /about/index.html
 
-# Article list grouped by year 
+# Article list grouped by year
 groupByYear: true
 
 # Content
 fancybox: true
 
 # Thumbnail
-thumbnail: true
+thumbnail: false
 
 # Scroll Loading
 scrollLoading: true
 
 # Sidebar
 sidebar: left // sidebar's position (left or right)
-social_links:
-  twitter:
-  facebook:
-  google_plus:
-  github: https://github.com/ppoffice/hexo-theme-hueman
-  weibo:
-  rss:
+#social_links:
+#  twitter:
+#  facebook:
+#  google_plus:
+#  github: https://github.com/ppoffice/hexo-theme-hueman
+#  weibo:
+#  rss: /atom.xml
 widgets:
 - recent_posts
 - category
@@ -41,13 +41,14 @@ widgets:
 
 # Links
 links:
-  Hexo: http://hexo.io
+  MODG Homepage: https://motherofdivinegrace.org/
+  MODG NHS Slack: https://modg-nhs.slack.com/
 
-# Don't Use Google APIs if you are in google-blocked areas
+# Don't use Google APIs if you are in google-blocked areas
 use_google_apis: false
 
 # Miscellaneous
-google_analytics:
+#google_analytics:
 favicon: /favicon.png
-fb_admins:
-fb_app_id:
+#fb_admins:
+#fb_app_id:
