@@ -1,15 +1,15 @@
 # Logo Url
 # Please enter the absolute path to your logo file
 # or remove the following line with replacing logo-header.png with your own logo
-logo: http://ppoffice.github.io/hexo-theme-hueman/css/images/logo-header.png
+# logo: http://ppoffice.github.io/hexo-theme-hueman/css/images/logo-header.png
 
 # Header
 menu:
   Home: /
-  Bylaws: /about/bylaws.html
-# Categories:
-  About: /about
-
+  Categories:
+  Tutoring: categories/information/tutoring.html
+  Bylaws: categories/information/bylaws.html
+  
 # Article list grouped by year
 groupByYear: true
 
@@ -45,7 +45,7 @@ links:
   MODG NHS Slack: https://modg-nhs.slack.com/
 
 # Don't use Google APIs if you are in google-blocked areas
-use_google_apis: false
+use_google_apis: true
 
 # Miscellaneous
 #google_analytics:
