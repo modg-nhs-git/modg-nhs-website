@@ -5,10 +5,10 @@ The Pope Leo XIII chapter of the National Honor Society is proud to present MoDG
 To sign up for tutoring, please click on the link below. You must sign up at least three days before the session. On the signup from left to right, you will see first the subject, then the dates, the location, and finally the times. There are multiple dates for each subject: please look carefully and make sure you sign up for the date you would like. *Also, please note that all times shown are in Pacific Time Zone.* 
 Two days before your session, you will be reminded of the date and time. The Adobe room links are below.
 
-Latin: 
-Religion and Science: 
-Writing Skills and Math: 
-History and English:
+Latin: https://modg.adobeconnect.com/nhstutoring1
+Grammar/Language Arts: https://modg.adobeconnect.com/nhstutoring2
+Science: https://modg.adobeconnect.com/nhstutoring3
+Math: https://modg.adobeconnect.com/nhstutoring4
 
 LINK TO SIGNUP: http://www.signupgenius.com/go/20f0449acaf28a2fa7-tutoring
 
