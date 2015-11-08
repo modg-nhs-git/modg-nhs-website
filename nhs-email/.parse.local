@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "nhs-email"
+    },
+    "nhs-email": {
+      "applicationId": "7zSXQv3z5sIjEwqlPlFMYqVSkao2TyS7ismtS6oo"
+    }
+  }
+}
