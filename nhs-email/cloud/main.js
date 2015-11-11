@@ -4,8 +4,6 @@ var Mailgun = require('mailgun');
 Mailgun.initialize(Domain, API);
 
 Parse.Cloud.define("sendEmail", function(request, response) {
-    
-    console.log('this worked');
  
     var text = "Submission Form From MattBlackDesign.com\n\n" + 
         "Name: "+request.params.name + "\n\n"+
