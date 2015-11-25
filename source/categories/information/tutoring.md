@@ -40,7 +40,8 @@ A: We will try to get you in on the day you signed up for, but if there aren’t
 ##### Q: I have a question that’s not covered here. Who do I contact?
 A: You can email the tutoring leaders (Mary, Maria, Julia, and Kiersten) at this email address: nhstutoring@motherofdivinegrace.org. If the question is about a certain subject (rescheduling your Latin session, for example) we ask that you put the name of the appropriate leader in the subject.
 
-Mary is head leader and tutors Grammar/Language Arts  
+Mary is head leader 
 Kiersten tutors Math  
 Maria tutors Science  
-Julia tutors Latin  
+Julia Fassero tutors Latin
+Julia Post tutors Grammar/Language Arts 
