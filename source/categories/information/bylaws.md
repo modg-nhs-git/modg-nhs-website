@@ -64,6 +64,13 @@ An active member of the National Honor Society who transfers from this school wi
 1. Regular meetings of this chapter shall be at least once a month, with additional meetings called as necessary by the president with the approval of the adviser.
 2. This chapter shall conduct its meetings according to Robert’s Rules of Order.
 3. Members are expected to attend all chapter meetings.
+ * Members are expected to excuse themselves by notifying the officers ahead of time should they be unable to attend a meeting.
+ * After notifying the officers of his/her situation, the member will have one week from the date of the actual meeting to listen to the meeting’s recording. The member must then notify the officers once he/she has listened to the recording.
+ * This excused absence shall be considered equivalent to being present.
+4. Should a member notify the officers that he/she will be absent from the live meeting, but then fail to listen to the recording within the given week’s period, it shall be considered as a “tardy”.
+ * If a member accumulates three "tardies", the three of them shall be considered to be an unexcused absence.
+ * All unexcused absences shall be counted towards potential dismissal.
+
 
 ### Article IX: Activities
 
@@ -77,16 +84,17 @@ An active member of the National Honor Society who transfers from this school wi
 
 1. Any member who falls below the standards of scholarship, leadership, character, or service may be considered for discipline or dismissal from the Pope Leo XIII chapter of the National Honor Society. A member of the National Honor Society is expected to maintain his/her academic standing and take an active role in service and leadership in his/her school and community.
 2. If a member’s cumulative grade point average falls below the standard in effect when he/she was selected (currently 3.85), he/she will be given a written warning and a reasonable time period for improvement. If the cumulative GPA remains below standard at the end of the warning period the student will be subject to further disciplinary action by the Faculty Council which may include consideration of dismissal from the chapter.
-3. Violations of the law or school regulations can result in immediate consideration of the dismissal of a member (see Section 5 below). These violations include, but are not limited to, DWI, stealing, destruction of property, cheating, truancy, or possession, selling, or being under the influence of drugs or alcohol at school, school-related activities, or in the community.
-4. Offenders of the school conduct code (such as use of profanity, failure to comply, unexcused absences, excessive tardiness, etc.) will receive a written warning notification. A conference may be requested by either party (Faculty Council or student/parent). If the member is involved in another violation of the school conduct code, the member may be considered for dismissal.
-5. Chapter officers, as representatives of the chapter, can be removed from their positions as a consequence of disciplinary action taken by the Faculty Council.
-6. In all cases pending dismissal:
+3. If a member has three unexcused absences in a single school year, he/she will receive a written notification from the advisor/Faculty Council. Should that same member have still another unexcused absence after the written notification, he/she will be pending dismissal.
+4. Violations of the law or school regulations can result in immediate consideration of the dismissal of a member (see Section 5 below). These violations include, but are not limited to, DWI, stealing, destruction of property, cheating, truancy, or possession, selling, or being under the influence of drugs or alcohol at school, school-related activities, or in the community.
+5. Offenders of the school conduct code (such as use of profanity, failure to comply, unexcused absences, excessive tardiness, etc.) will receive a written warning notification. A conference may be requested by either party (Faculty Council or student/parent). If the member is involved in another violation of the school conduct code, the member may be considered for dismissal.
+6. Chapter officers, as representatives of the chapter, can be removed from their positions as a consequence of disciplinary action taken by the Faculty Council.
+7. In all cases pending dismissal:
  * The members will receive written notification from the adviser/Faculty Council indicating the reason for consideration of dismissal.
  * The member will be given the opportunity to respond to the charge(s) against him/her at a hearing before the Faculty Council prior to any vote on dismissal (in accordance with due process identified in Article X of the National Constitution). The member has the opportunity to present his/her defense either in person or via a written statement presented in lieu of the face-to-face hearing. Following the hearing, the Faculty Council will then vote on whether to dismiss the member. A majority vote of the Faculty Council is needed to dismiss any member.
  * The results of the Faculty Council vote will be presented to the principle for review, and then stated in a letter sent to the student and parents. Dismissed members must surrender any membership emblems to the adviser.
 The Faculty Council’s decision may be appealed to the principal and afterwards according to provisions of the school district discipline policies.
  * A member who is dismissed or resigns may never again be considered for membership in the National Honor Society.
-7. In lieu of dismissal, the Faculty Council may impose disciplinary sanctions upon a member as deemed appropriate.
+8. In lieu of dismissal, the Faculty Council may impose disciplinary sanctions upon a member as deemed appropriate.
 
 ### Article XI: Ratification, Approval, and Review
 
@@ -96,3 +104,8 @@ The Faculty Council’s decision may be appealed to the principal and afterwards
 ### Article XII: Amendments
 
 These bylaws may be amended by a two-thirds vote of the chapter, provided notice of the proposed amendment has been given to members at least one month prior to the vote. The exceptions are Articles V and X, dealing with the procedures for selection and dismissal, which are developed by the Faculty Council with the approval of the principal.
+
+
+
+
+ 
