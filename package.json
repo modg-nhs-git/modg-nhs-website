@@ -1,6 +1,6 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "modg-nhs-website",
+  "version": "0.0.2",
   "private": true,
   "hexo": {
     "version": "3.1.1"
@@ -15,5 +15,25 @@
     "hexo-renderer-stylus": "^0.2.0",
     "hexo-renderer-marked": "^0.2.4",
     "hexo-server": "^0.1.2"
-  }
+  },
+  "description": "MODG NHS Website =================================== The Mother of Divine Grace National Honor Society's website.",
+  "main": "n/a",
+  "devDependencies": {},
+  "scripts": {
+    "test": "hexo generate && hexo server",
+    "publish": "hexo generate && surge ./public nhs.motherofdivinegrace.org",
+    "pull": "git pull",
+    "commit": "git commit -a -m",
+    "push": "git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protex/modg-nhs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protex/modg-nhs/issues"
+  },
+  "homepage": "https://github.com/protex/modg-nhs#readme"
 }
