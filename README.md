@@ -15,4 +15,4 @@ Test: run `hexo serve` and go to `http://127.0.0.1:4000/` in your web browser.
 Complete Hexo documentation: [hexo.io](http://hexo.io/).
 
 
-Hello world!
+
