@@ -34,7 +34,13 @@ function handleSignUp() {
     // [END_EXCLUDE]
   });
   if (user.ca != undefined ) {
-    
+    firebase.database().ref('users/' + email).set({
+      username: email,
+      email: email,
+      fname: fname,
+      lname: lname,
+      grade: grade
+    });
   }
   // [END createwithemail]
 }
