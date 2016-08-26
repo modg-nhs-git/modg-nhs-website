@@ -1,7 +1,7 @@
 title: Tutoring Project
 date: 2015-11-11 03:28:12
 ---
-The Pope Leo XIII chapter of the National Honor Society is proud to present MoDG with a tutoring program! All tutors are NHS students, who are required to have a GPA of at least 3.86.
+The Pope Leo XIII chapter of the National Honor Society is proud to present MoDG with a tutoring program! All tutors are NHS students, who are required to have a GPA of at least 3.85.
 To sign up for tutoring, please click on the link below. You must sign up at least two days before the session. On the signup from left to right, you will see first the subject, then the dates, the location, and finally the times. Please look carefully and make sure you sign up for the correct subject, date, and time. *Also, please note that all times shown are in Pacific Time Zone.*
 One day  before your session, you will be reminded of the date and time. The Adobe Connect room links are below.
 
