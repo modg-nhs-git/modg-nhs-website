@@ -1,5 +1,5 @@
 title: Tutoring Project
-date: 2015-11-11 03:28:12
+date: 2016-10-11 03:28:12
 ---
 The Pope Leo XIII chapter of the National Honor Society is proud to present MoDG with a tutoring program! All tutors are NHS students, who are required to have a GPA of at least 3.85.
 To sign up for tutoring, please click on the link below. You must sign up at least two days before the session. On the signup from left to right, you will see first the subject, then the dates, the location, and finally the times. Please look carefully and make sure you sign up for the correct subject, date, and time. *Also, please note that all times shown are in Pacific Time Zone.*
@@ -38,10 +38,8 @@ A: We tutor Latin, Math, Science, and Grammar/Language Arts. If you would like y
 A: We will try to get you in on the day you signed up for, but if there aren’t enough tutors available, we will email you to reschedule.
 
 ##### Q: I have a question that’s not covered here. Who do I contact?
-A: You can email the tutoring leaders (Mary, Maria, Julia, and Kiersten) at this email address: nhstutoring@motherofdivinegrace.org. If the question is about a certain subject (rescheduling your Latin session, for example) we ask that you put the name of the appropriate leader in the subject.
+A: You can email the tutoring leaders (Mary, Maria, and Julia) at this email address: nhstutoring@motherofdivinegrace.org. If the question is about a certain subject (rescheduling your Latin session, for example) we ask that you put the name of the appropriate leader in the subject.
 
-Mary is head leader 
-Kiersten tutors Math  
-Maria tutors Science  
-Julia Fassero tutors Latin
-Julia Post tutors Grammar/Language Arts 
+Mary Lang is head leader 
+Maria Maggio tutors Science & Latin 
+Julia Post tutors Grammar/Language Arts & Math
